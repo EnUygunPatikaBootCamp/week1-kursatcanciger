@@ -20,4 +20,4 @@
 - Soyutlama kavramı sınıfın içindeki iç işleyişi dışarıya gizlemektir. PHP ile nesne tabanlı programlamada Abstract Class kullanılır.
 
 ## 5. UML Class Diagram
-![Image]('UML.png')
+![Image](UML.png)
